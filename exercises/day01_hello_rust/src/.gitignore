@@ -1,0 +1,17 @@
+# Rust build artifacts
+target/
+**/target/
+
+# Lockfiles
+Cargo.lock
+**/Cargo.lock
+
+# Environment files
+.env
+.env.*
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
